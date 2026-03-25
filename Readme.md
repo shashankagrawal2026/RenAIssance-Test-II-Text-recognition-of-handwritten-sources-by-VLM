@@ -5,7 +5,7 @@ This project addresses the challenge of Optical Character Recognition (OCR) for 
 This project is part of the `RenAIssance project`, a large-scale digital humanities initiative under the **HumanAI Foundation**. It has been developed as a contribution to `Google Summer of Code 2026`.
 
 <p align="center">
-  <img src="Images/humanai_logo.jpg" alt="HumanAI" style="height: 100px; margin-right: 20px;"/>
+  <img src="Images/humanai_logo.png" alt="HumanAI" style="height: 100px; margin-right: 20px;"/>
   <img src="Images/gsoc_logo.png" alt="GSOC" style="height: 50px; padding-bottom: 50px" />
 </p>
 
