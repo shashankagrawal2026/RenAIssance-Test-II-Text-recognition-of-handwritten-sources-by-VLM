@@ -9,6 +9,9 @@ This project is part of the `RenAIssance project`, a large-scale digital humanit
   <img src="Images/gsoc_logo.png" alt="GSOC" style="height: 50px; padding-bottom: 50px" />
 </p>
 
+## Colab - [Link](https://colab.research.google.com/drive/16ks_B1UmDtTv0QDflSFFLQl-zcJaA2A4?usp=sharing)
+## Drive Results - [Link](https://drive.google.com/drive/folders/1qCYGtFuzHr64BJMADycj4R1aRL7aJIV1?usp=sharing)
+## Dataset - [Link](https://drive.google.com/drive/folders/1IxmqniD_MPyULMRJIy9GzuUQu8gWSvZC?usp=drive_link)
 ## Table of Contents
 
 - [Project Goals](#Project-Goals)
