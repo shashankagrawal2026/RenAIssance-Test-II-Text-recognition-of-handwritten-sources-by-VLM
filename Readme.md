@@ -91,7 +91,7 @@ The notebook implements a fully automated data ingestion and preprocessing workf
 
 5. **IAM Pre-Warming:** 150 samples from the `Teklia/IAM-line` dataset on Hugging Face are loaded as pre-warm data, yielding a final training set of 214 samples.
 
-![Data Pipeline](images/Pre_Process.png)
+![Data Pipeline](Images/Data_Pipeline.jpg)
 
 #### Model Architecture
 
@@ -103,8 +103,6 @@ The project employs **Qwen2.5-VL-7B-Instruct**, a 5-billion-parameter multimodal
 - **Trainable Parameters:** 51,521,536 / 5,081,043,968 (1.01% of total)
 
 The model processes full manuscript page images and generates transcriptions in a conversational VLM format, using a custom OCR prompt that instructs faithful transcription with preservation of original spelling and abbreviations.
-
-![Model Architecture](images/architecture.png)
 
 #### Training Configuration
 
